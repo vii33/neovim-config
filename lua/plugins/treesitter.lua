@@ -1,6 +1,6 @@
 
 return {
-  -- add more treesitter parsers
+  -- Added more treesitter parsers to remove error
   {
     "nvim-treesitter/nvim-treesitter",
     opts = function(_, opts)

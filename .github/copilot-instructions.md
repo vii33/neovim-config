@@ -1,6 +1,6 @@
 # AI Assistant Project Instructions
 
-Purpose: Help AI agents quickly understand and extend this Neovim configuration (a thin customization layer on top of LazyVim + lazy.nvim).
+Purpose: Help AI agents quickly understand and extend this Neovim configuration (a thin customization layer on top of LazyVim + lazy.nvim). Also help human developers understand the project and the neovim configuration options. Human developers are lua and neovim config beginners, so keep things easy and explain in detail.
 
 # Environment
 - Neovim runs under NixOS (https://nixos.org/) with a custom user profile.
